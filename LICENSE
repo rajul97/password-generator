@@ -1,0 +1,8 @@
+
+---
+
+## 🚀 **How to Upload to GitHub**
+### **1️⃣ Initialize Git**
+```sh
+cd /path/to/password_generator
+git init
